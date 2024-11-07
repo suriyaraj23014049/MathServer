@@ -89,7 +89,7 @@ REG.NO: 212223040216
     <body background="https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3508.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1729468800&semt=ais_hybrid">
         <div class="box">
         <h1 align="center">Surface Area Of a Cylinder</h1>
-        <h2 align="center">(SURIYA RAJ K N)</h2>
+        <h2 align="center">(SURIYA RAJ K)</h2>
         <br><br><br>
         <label><strong>Radius</strong></label><br><br>
         <input type="text" id="RADIUS" placeholder="Radius in units"><br><br>
@@ -106,7 +106,8 @@ REG.NO: 212223040216
 
 
 ## HOMEPAGE:
-![image](https://github.com/user-attachments/assets/80f1ea53-5122-4801-80b3-b64328250c24)
+![image](https://github.com/user-attachments/assets/e3aee818-2c02-411b-9666-3b6e8359326d)
+
 
 
 
